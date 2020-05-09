@@ -1,0 +1,1 @@
+Target image for AR app in Assets\Target folder
